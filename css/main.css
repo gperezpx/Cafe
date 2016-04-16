@@ -1,0 +1,28 @@
+.space
+{
+	margin-bottom: 10px
+}
+.logo
+{
+		width: 100px;
+		height: 100px;
+}
+.header
+{
+	background-color: #000;
+}
+.titulo
+{
+	color: #fff;
+}
+.user
+{
+	margin: 20px 0px 20px; 
+	width: 100px;
+	height: 100px;
+}
+.recuadro
+{
+	background-color: #e4e4e4;
+	border-radius: 10px;
+}
